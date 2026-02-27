@@ -1,0 +1,6 @@
+litellm
+notebook
+openai
+anthropic
+together
+datasets
